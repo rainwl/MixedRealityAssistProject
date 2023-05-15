@@ -1,2 +1,16 @@
 
 .idea/.idea.MixedRealityAssistProject.dir/.idea/
+
+MRAP/Library/
+
+MRAP/ProjectSettings/
+
+MRAP/UserSettings/
+
+MRAP/Temp/
+
+*.sln
+
+MRAP/Logs/
+
+MRAP/.vsconfig
