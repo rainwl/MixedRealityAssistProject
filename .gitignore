@@ -16,3 +16,9 @@ MRAP/Logs/
 MRAP/.vsconfig
 
 *.csproj
+
+MRAP/.idea/.idea.MRAP/.idea/
+
+MRAP/obj/Debug/
+
+MRAP/Build/
