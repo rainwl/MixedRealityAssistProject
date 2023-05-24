@@ -16,6 +16,11 @@ The project period is 2+1 months. The first phase lasts until 2023-7-31.
 If I can successfully pass the preliminary competition, I will have one month to prepare 
 for the final.
 
+<img src="https://pic4rain.oss-cn-beijing.aliyuncs.com/img/flow.png" width =70%>
+
+
+<img src="https://pic4rain.oss-cn-beijing.aliyuncs.com/img/reward.png" width=70%>
+
 Here are some related links.
 
 **Qualcomm**
